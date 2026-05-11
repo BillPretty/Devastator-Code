@@ -1,4 +1,4 @@
-In this version of the software the following commands are valid:
+In this version 8 of the software the following commands are valid:
 
 f = Move Forward
 b = Move Backward.
