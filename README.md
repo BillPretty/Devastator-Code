@@ -1,11 +1,12 @@
-# Devastator-Code
-Arduino AI Code for Devastator Robot
+In this version of the software the following commands are valid:
 
-Make sure Caps Lock is on.
-F = Forward
-B = Back
-L = Turn Left
-R = Turn Right
-S = Stop
-A = Enter Autonomous Mode
-M = Return to Manual Mode
+f = Move Forward
+b = Move Backward.
+l = Turn Left
+r = Turn Right
+s = Stop
+A = Autonomous 
+M = Change Mode to Manual
+L = Hard left turn
+R = Hard right turn
+C = AI Camera Control 
